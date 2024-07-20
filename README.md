@@ -3,15 +3,19 @@
 This project has been done by 1 studeont of University of Belgrade, Faculty of Mathematics.  
 Its done as a project for univeristy.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features:  
+  - Database:  
+    - Firebase:
+      - Sign in with existing account  
+      - Creating new account  
+      - Sign in with Google account  
+      - Sending link if u forgot passwod  
+      - used for chat app  
+    - Hive:  
+     -  used for storing to do notes localy  
+  - Weather app  
+  - Speech to text app  
+  - To dd notes app  
+  - Chat app  
+  - ChatGPT app (bot is not answering cuz u need to pay for chat modell)  
+  - Creative UI design  
