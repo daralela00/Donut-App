@@ -1,6 +1,7 @@
-# donut_app
+# Donut App
 
-A new Flutter project.
+This project has been done by 1 studeont of University of Belgrade, Faculty of Mathematics.
+Its done as a project for univeristy.
 
 ## Getting Started
 
