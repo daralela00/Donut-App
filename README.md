@@ -12,7 +12,7 @@ Features:
       - Sending link if u forgot passwod  
       - used for chat app  
     - Hive:  
-     - used for storing to do notes localy  
+     - Used for storing to do notes localy  
   - Weather app  
   - Speech to text app  
   - To dd notes app  
