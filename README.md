@@ -12,10 +12,10 @@ Features:
       - Sending link if u forgot passwod  
       - used for chat app  
     - Hive:  
-     - Used for storing to do notes localy  
+       - Used for storing to do notes localy  
   - Weather app  
   - Speech to text app  
-  - To dd notes app  
+  - To do notes app  
   - Chat app  
   - ChatGPT app (bot is not answering cuz u need to pay for chat modell)  
   - Creative UI design  
