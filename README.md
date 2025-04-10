@@ -17,5 +17,5 @@ Features:
   - Speech to text app  
   - To do notes app  
   - Chat app  
-  - ChatGPT app (bot is not answering cuz u need to pay for chat modell)  
+  - ChatGPT app  
   - Creative UI design  
